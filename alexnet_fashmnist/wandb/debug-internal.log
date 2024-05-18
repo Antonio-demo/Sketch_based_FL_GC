@@ -1,0 +1,156 @@
+2023-08-09 10:46:49,636 INFO    StreamThr :6371 [internal.py:wandb_internal():91] W&B internal server running at pid: 6371, started at: 2023-08-09 10:46:49.636217
+2023-08-09 10:46:49,638 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: status
+2023-08-09 10:46:49,639 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: status
+2023-08-09 10:46:49,641 DEBUG   SenderThread:6371 [sender.py:send():303] send: header
+2023-08-09 10:46:49,641 INFO    WriterThread:6371 [datastore.py:open_for_write():75] open: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/run-1bpgjh04.wandb
+2023-08-09 10:46:49,641 DEBUG   SenderThread:6371 [sender.py:send():303] send: run
+2023-08-09 10:46:50,731 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: check_version
+2023-08-09 10:46:50,733 INFO    SenderThread:6371 [dir_watcher.py:__init__():216] watching files in: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files
+2023-08-09 10:46:50,733 INFO    SenderThread:6371 [sender.py:_start_run_threads():931] run started: 1bpgjh04 with start time 1691549209.635712
+2023-08-09 10:46:50,733 DEBUG   SenderThread:6371 [sender.py:send():303] send: summary
+2023-08-09 10:46:50,733 INFO    SenderThread:6371 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-08-09 10:46:50,733 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: check_version
+2023-08-09 10:46:51,125 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: run_start
+2023-08-09 10:46:51,676 DEBUG   HandlerThread:6371 [system_info.py:__init__():31] System info init
+2023-08-09 10:46:51,676 DEBUG   HandlerThread:6371 [system_info.py:__init__():46] System info init done
+2023-08-09 10:46:51,676 INFO    HandlerThread:6371 [system_monitor.py:start():150] Starting system monitor
+2023-08-09 10:46:51,676 INFO    SystemMonitor:6371 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2023-08-09 10:46:51,676 INFO    HandlerThread:6371 [system_monitor.py:probe():168] Collecting system info
+2023-08-09 10:46:51,676 INFO    SystemMonitor:6371 [interfaces.py:start():168] Started cpu
+2023-08-09 10:46:51,677 INFO    SystemMonitor:6371 [interfaces.py:start():168] Started disk
+2023-08-09 10:46:51,677 INFO    SystemMonitor:6371 [interfaces.py:start():168] Started gpu
+2023-08-09 10:46:51,677 INFO    SystemMonitor:6371 [interfaces.py:start():168] Started memory
+2023-08-09 10:46:51,678 INFO    SystemMonitor:6371 [interfaces.py:start():168] Started network
+2023-08-09 10:46:51,705 DEBUG   HandlerThread:6371 [system_info.py:probe():195] Probing system
+2023-08-09 10:46:51,710 DEBUG   HandlerThread:6371 [git.py:repo():40] git repository is invalid
+2023-08-09 10:46:51,710 DEBUG   HandlerThread:6371 [system_info.py:probe():241] Probing system done
+2023-08-09 10:46:51,710 DEBUG   HandlerThread:6371 [system_monitor.py:probe():177] {'os': 'Linux-3.10.0-1160.71.1.el7.x86_64-x86_64-with-centos-7.9.2009-Core', 'python': '3.7.12', 'heartbeatAt': '2023-08-09T02:46:51.705148', 'startedAt': '2023-08-09T02:46:49.624830', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '/data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/alexnet_fashmnist_sketch.py', 'codePath': 'alexnet_fashmnist_sketch.py', 'host': 'node02', 'username': 'xcg001', 'executable': '/data/xcg001/anaconda3/envs/python37/bin/python3.7', 'cpu_count': 28, 'cpu_count_logical': 56, 'cpu_freq': {'current': 2599.520678571429, 'min': 1200.0, 'max': 2600.0}, 'cpu_freq_per_core': [{'current': 2599.841, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.365, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.841, 'min': 1200.0, 'max': 2600.0}, {'current': 2601.745, 'min': 1200.0, 'max': 2600.0}, {'current': 2601.428, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.682, 'min': 1200.0, 'max': 2600.0}, {'current': 2619.519, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.158, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.047, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.841, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.793, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.206, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.523, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.793, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.476, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.158, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.841, 'min': 1200.0, 'max': 2600.0}, {'current': 2590.954, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.682, 'min': 1200.0, 'max': 2600.0}, {'current': 2602.221, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.317, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.158, 'min': 1200.0, 'max': 2600.0}, {'current': 2596.032, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.841, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.158, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.952, 'min': 1200.0, 'max': 2600.0}, {'current': 2597.302, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2567.785, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.158, 'min': 1200.0, 'max': 2600.0}, {'current': 2593.493, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.952, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.523, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.634, 'min': 1200.0, 'max': 2600.0}, {'current': 2596.032, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.841, 'min': 1200.0, 'max': 2600.0}, {'current': 2595.874, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.634, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.523, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.682, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2604.443, 'min': 1200.0, 'max': 2600.0}, {'current': 2599.682, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}, {'current': 2603.649, 'min': 1200.0, 'max': 2600.0}, {'current': 2600.0, 'min': 1200.0, 'max': 2600.0}], 'disk': {'total': 99.951171875, 'used': 51.64180374145508}, 'gpu': 'Tesla P40', 'gpu_count': 1, 'gpu_devices': [{'name': 'Tesla P40', 'memory_total': 24159191040}], 'memory': {'total': 251.35169219970703}}
+2023-08-09 10:46:51,710 INFO    HandlerThread:6371 [system_monitor.py:probe():178] Finished collecting system info
+2023-08-09 10:46:51,710 INFO    HandlerThread:6371 [system_monitor.py:probe():181] Publishing system info
+2023-08-09 10:46:51,710 DEBUG   HandlerThread:6371 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2023-08-09 10:46:51,711 DEBUG   HandlerThread:6371 [system_info.py:_save_pip():67] Saving pip packages done
+2023-08-09 10:46:51,711 DEBUG   HandlerThread:6371 [system_info.py:_save_conda():75] Saving list of conda packages installed into the current environment
+2023-08-09 10:46:51,736 INFO    Thread-13 :6371 [dir_watcher.py:_on_file_created():275] file/dir created: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/conda-environment.yaml
+2023-08-09 10:46:51,736 INFO    Thread-13 :6371 [dir_watcher.py:_on_file_created():275] file/dir created: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/requirements.txt
+2023-08-09 10:46:51,737 INFO    Thread-13 :6371 [dir_watcher.py:_on_file_created():275] file/dir created: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/wandb-summary.json
+2023-08-09 10:46:54,824 DEBUG   HandlerThread:6371 [system_info.py:_save_conda():86] Saving conda packages done
+2023-08-09 10:46:54,825 INFO    HandlerThread:6371 [system_monitor.py:probe():183] Finished publishing system info
+2023-08-09 10:46:54,865 DEBUG   SenderThread:6371 [sender.py:send():303] send: exit
+2023-08-09 10:46:54,866 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: poll_exit
+2023-08-09 10:46:54,866 INFO    SenderThread:6371 [sender.py:send_exit():442] handling exit code: 255
+2023-08-09 10:46:54,867 INFO    SenderThread:6371 [sender.py:send_exit():444] handling runtime: 3
+2023-08-09 10:46:54,868 INFO    SenderThread:6371 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-08-09 10:46:54,869 INFO    SenderThread:6371 [sender.py:send_exit():450] send defer
+2023-08-09 10:46:54,869 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: poll_exit
+2023-08-09 10:46:54,869 DEBUG   SenderThread:6371 [sender.py:send():303] send: files
+2023-08-09 10:46:54,869 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:54,869 INFO    SenderThread:6371 [sender.py:_save_file():1171] saving file wandb-metadata.json with policy now
+2023-08-09 10:46:54,869 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 0
+2023-08-09 10:46:54,870 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:54,870 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 0
+2023-08-09 10:46:54,870 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 1
+2023-08-09 10:46:54,871 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:54,871 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 1
+2023-08-09 10:46:54,871 INFO    HandlerThread:6371 [system_monitor.py:finish():160] Stopping system monitor
+2023-08-09 10:46:54,871 DEBUG   SystemMonitor:6371 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2023-08-09 10:46:54,872 DEBUG   SystemMonitor:6371 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2023-08-09 10:46:54,872 DEBUG   SystemMonitor:6371 [system_monitor.py:_start():141] Publishing last batch of metrics
+2023-08-09 10:46:54,873 INFO    HandlerThread:6371 [interfaces.py:finish():173] Joined cpu
+2023-08-09 10:46:54,876 INFO    HandlerThread:6371 [interfaces.py:finish():173] Joined disk
+2023-08-09 10:46:54,944 INFO    HandlerThread:6371 [interfaces.py:finish():173] Joined gpu
+2023-08-09 10:46:54,944 INFO    HandlerThread:6371 [interfaces.py:finish():173] Joined memory
+2023-08-09 10:46:54,944 INFO    HandlerThread:6371 [interfaces.py:finish():173] Joined network
+2023-08-09 10:46:54,945 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:54,945 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 1
+2023-08-09 10:46:54,945 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 2
+2023-08-09 10:46:54,945 DEBUG   SenderThread:6371 [sender.py:send():303] send: stats
+2023-08-09 10:46:54,945 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:54,945 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 2
+2023-08-09 10:46:54,946 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:54,946 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 2
+2023-08-09 10:46:54,946 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 3
+2023-08-09 10:46:54,946 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:54,946 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 3
+2023-08-09 10:46:54,946 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:54,946 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 3
+2023-08-09 10:46:54,946 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 4
+2023-08-09 10:46:54,946 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:54,947 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 4
+2023-08-09 10:46:54,947 DEBUG   SenderThread:6371 [sender.py:send():303] send: summary
+2023-08-09 10:46:54,947 INFO    SenderThread:6371 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-08-09 10:46:54,947 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:54,947 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 4
+2023-08-09 10:46:54,947 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 5
+2023-08-09 10:46:54,947 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:54,947 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 5
+2023-08-09 10:46:54,948 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:54,948 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 5
+2023-08-09 10:46:54,948 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 6
+2023-08-09 10:46:54,948 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:54,948 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 6
+2023-08-09 10:46:54,948 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:54,948 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 6
+2023-08-09 10:46:54,948 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 7
+2023-08-09 10:46:54,948 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:54,948 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 7
+2023-08-09 10:46:54,949 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:54,949 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 7
+2023-08-09 10:46:54,949 INFO    SenderThread:6371 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-08-09 10:46:55,064 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: poll_exit
+2023-08-09 10:46:55,736 INFO    Thread-13 :6371 [dir_watcher.py:_on_file_modified():292] file/dir modified: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/wandb-summary.json
+2023-08-09 10:46:55,736 INFO    SenderThread:6371 [dir_watcher.py:_on_file_created():275] file/dir created: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/wandb-metadata.json
+2023-08-09 10:46:55,737 INFO    SenderThread:6371 [dir_watcher.py:finish():392] scan: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files
+2023-08-09 10:46:55,737 INFO    SenderThread:6371 [dir_watcher.py:finish():406] scan save: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/conda-environment.yaml conda-environment.yaml
+2023-08-09 10:46:55,737 INFO    SenderThread:6371 [dir_watcher.py:finish():406] scan save: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/config.yaml config.yaml
+2023-08-09 10:46:55,737 INFO    SenderThread:6371 [dir_watcher.py:finish():406] scan save: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/wandb-summary.json wandb-summary.json
+2023-08-09 10:46:55,740 INFO    SenderThread:6371 [dir_watcher.py:finish():406] scan save: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/requirements.txt requirements.txt
+2023-08-09 10:46:55,743 INFO    SenderThread:6371 [dir_watcher.py:finish():406] scan save: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/wandb-metadata.json wandb-metadata.json
+2023-08-09 10:46:55,743 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 8
+2023-08-09 10:46:55,744 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: poll_exit
+2023-08-09 10:46:55,744 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:55,744 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 8
+2023-08-09 10:46:55,747 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:55,747 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 8
+2023-08-09 10:46:55,747 INFO    SenderThread:6371 [file_pusher.py:finish():168] shutting down file pusher
+2023-08-09 10:46:56,064 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: poll_exit
+2023-08-09 10:46:56,064 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: poll_exit
+2023-08-09 10:46:56,075 INFO    Thread-16 :6371 [upload_job.py:push():143] Uploaded file /tmp/tmpqu3yshmuwandb/1eccp2ux-wandb-metadata.json
+2023-08-09 10:46:57,065 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: poll_exit
+2023-08-09 10:46:57,065 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: poll_exit
+2023-08-09 10:46:57,177 INFO    Thread-17 :6371 [upload_job.py:push():143] Uploaded file /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/config.yaml
+2023-08-09 10:46:57,204 INFO    Thread-18 :6371 [upload_job.py:push():143] Uploaded file /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/wandb-summary.json
+2023-08-09 10:46:57,246 INFO    Thread-19 :6371 [upload_job.py:push():143] Uploaded file /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/files/requirements.txt
+2023-08-09 10:46:57,447 INFO    Thread-12 :6371 [sender.py:transition_state():463] send defer: 9
+2023-08-09 10:46:57,447 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:57,447 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 9
+2023-08-09 10:46:57,447 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:57,447 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 9
+2023-08-09 10:46:57,447 INFO    SenderThread:6371 [file_pusher.py:join():173] waiting for file pusher
+2023-08-09 10:46:57,447 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 10
+2023-08-09 10:46:57,448 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:57,448 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 10
+2023-08-09 10:46:57,448 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:57,448 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 10
+2023-08-09 10:46:58,065 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: poll_exit
+2023-08-09 10:46:58,179 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 11
+2023-08-09 10:46:58,179 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: poll_exit
+2023-08-09 10:46:58,179 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:58,179 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 11
+2023-08-09 10:46:58,180 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:58,180 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 11
+2023-08-09 10:46:58,180 INFO    SenderThread:6371 [sender.py:transition_state():463] send defer: 12
+2023-08-09 10:46:58,180 DEBUG   SenderThread:6371 [sender.py:send():303] send: final
+2023-08-09 10:46:58,180 DEBUG   SenderThread:6371 [sender.py:send():303] send: footer
+2023-08-09 10:46:58,180 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: defer
+2023-08-09 10:46:58,181 INFO    HandlerThread:6371 [handler.py:handle_request_defer():162] handle defer: 12
+2023-08-09 10:46:58,181 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: defer
+2023-08-09 10:46:58,181 INFO    SenderThread:6371 [sender.py:send_request_defer():459] handle sender defer: 12
+2023-08-09 10:46:58,182 DEBUG   HandlerThread:6371 [handler.py:handle_request():139] handle_request: poll_exit
+2023-08-09 10:46:58,182 DEBUG   SenderThread:6371 [sender.py:send_request():317] send_request: poll_exit
+2023-08-09 10:46:58,647 WARNING StreamThr :6371 [internal.py:is_dead():386] Internal process exiting, parent pid 6280 disappeared
+2023-08-09 10:46:58,648 ERROR   StreamThr :6371 [internal.py:wandb_internal():147] Internal process shutdown.
+2023-08-09 10:46:59,180 INFO    WriterThread:6371 [datastore.py:close():279] close: /data/xcg001/GoogleNet_Cifar10/alexnet_fashmnist/wandb/run-20230809_104649-1bpgjh04/run-1bpgjh04.wandb
+2023-08-09 10:46:59,182 INFO    SenderThread:6371 [sender.py:finish():1331] shutting down sender
+2023-08-09 10:46:59,182 INFO    SenderThread:6371 [file_pusher.py:finish():168] shutting down file pusher
+2023-08-09 10:46:59,182 INFO    SenderThread:6371 [file_pusher.py:join():173] waiting for file pusher
+2023-08-09 10:46:59,183 INFO    HandlerThread:6371 [handler.py:finish():814] shutting down handler

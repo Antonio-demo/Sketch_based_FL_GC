@@ -1,0 +1,1682 @@
+Epoch 1  loss 2.275 
+Epoch 1  loss 2.170 
+Epoch 1  loss 2.067 
+Epoch 1  loss 1.999 
+Epoch 1  loss 1.941 
+Epoch 1  loss 1.867 
+Epoch 1  loss 1.825 
+Epoch 1  loss 1.772 
+Epoch 1  loss 1.755 
+Epoch 1  loss 1.716 
+train images	 avg loss: 7.920, accuracy:  11.58
+test images	 avg loss: 9.111, accuracy:  11.86
+Epoch 2  loss 2.548 
+Epoch 2  loss 2.106 
+Epoch 2  loss 1.985 
+Epoch 2  loss 1.856 
+Epoch 2  loss 1.806 
+Epoch 2  loss 1.739 
+Epoch 2  loss 1.714 
+Epoch 2  loss 1.656 
+Epoch 2  loss 1.637 
+Epoch 2  loss 1.625 
+train images	 avg loss: 1.623v, accuracy:  41.92^
+test images	 avg loss: 1.571v, accuracy:  43.37^
+Epoch 3  loss 1.608 
+Epoch 3  loss 1.550 
+Epoch 3  loss 1.557 
+Epoch 3  loss 1.560 
+Epoch 3  loss 1.548 
+Epoch 3  loss 1.527 
+Epoch 3  loss 1.502 
+Epoch 3  loss 1.475 
+Epoch 3  loss 1.474 
+Epoch 3  loss 1.447 
+train images	 avg loss: 1.439v, accuracy:  48.56^
+test images	 avg loss: 1.394v, accuracy:  50.10^
+Epoch 4  loss 1.440 
+Epoch 4  loss 1.410 
+Epoch 4  loss 1.417 
+Epoch 4  loss 1.425 
+Epoch 4  loss 1.404 
+Epoch 4  loss 1.400 
+Epoch 4  loss 1.390 
+Epoch 4  loss 1.379 
+Epoch 4  loss 1.363 
+Epoch 4  loss 1.366 
+train images	 avg loss: 1.359v, accuracy:  52.24^
+test images	 avg loss: 1.273v, accuracy:  54.96^
+Epoch 5  loss 1.344 
+Epoch 5  loss 1.336 
+Epoch 5  loss 1.339 
+Epoch 5  loss 1.302 
+Epoch 5  loss 1.304 
+Epoch 5  loss 1.321 
+Epoch 5  loss 1.298 
+Epoch 5  loss 1.287 
+Epoch 5  loss 1.263 
+Epoch 5  loss 1.269 
+train images	 avg loss: 1.290v, accuracy:  54.44^
+test images	 avg loss: 1.201v, accuracy:  57.27^
+Epoch 6  loss 1.270 
+Epoch 6  loss 1.264 
+Epoch 6  loss 1.255 
+Epoch 6  loss 1.261 
+Epoch 6  loss 1.242 
+Epoch 6  loss 1.230 
+Epoch 6  loss 1.236 
+Epoch 6  loss 1.187 
+Epoch 6  loss 1.225 
+Epoch 6  loss 1.211 
+train images	 avg loss: 1.192v, accuracy:  58.00^
+test images	 avg loss: 1.132v, accuracy:  59.79^
+Epoch 7  loss 1.208 
+Epoch 7  loss 1.197 
+Epoch 7  loss 1.193 
+Epoch 7  loss 1.202 
+Epoch 7  loss 1.168 
+Epoch 7  loss 1.160 
+Epoch 7  loss 1.164 
+Epoch 7  loss 1.214 
+Epoch 7  loss 1.203 
+Epoch 7  loss 1.180 
+train images	 avg loss: 1.192v, accuracy:  57.93v
+test images	 avg loss: 1.099v, accuracy:  61.33^
+Epoch 8  loss 1.161 
+Epoch 8  loss 1.177 
+Epoch 8  loss 1.146 
+Epoch 8  loss 1.133 
+Epoch 8  loss 1.156 
+Epoch 8  loss 1.126 
+Epoch 8  loss 1.163 
+Epoch 8  loss 1.145 
+Epoch 8  loss 1.103 
+Epoch 8  loss 1.136 
+train images	 avg loss: 1.158v, accuracy:  59.85^
+test images	 avg loss: 1.142^, accuracy:  60.86v
+Epoch 9  loss 1.122 
+Epoch 9  loss 1.125 
+Epoch 9  loss 1.118 
+Epoch 9  loss 1.096 
+Epoch 9  loss 1.115 
+Epoch 9  loss 1.111 
+Epoch 9  loss 1.082 
+Epoch 9  loss 1.082 
+Epoch 9  loss 1.099 
+Epoch 9  loss 1.097 
+train images	 avg loss: 1.096v, accuracy:  61.52^
+test images	 avg loss: 1.037v, accuracy:  63.85^
+Epoch 10  loss 1.067 
+Epoch 10  loss 1.039 
+Epoch 10  loss 1.087 
+Epoch 10  loss 1.053 
+Epoch 10  loss 1.071 
+Epoch 10  loss 1.075 
+Epoch 10  loss 1.056 
+Epoch 10  loss 1.059 
+Epoch 10  loss 1.064 
+Epoch 10  loss 1.055 
+train images	 avg loss: 1.109^, accuracy:  61.41v
+test images	 avg loss: 1.071^, accuracy:  62.67v
+Epoch 11  loss 1.046 
+Epoch 11  loss 1.028 
+Epoch 11  loss 1.053 
+Epoch 11  loss 1.072 
+Epoch 11  loss 1.032 
+Epoch 11  loss 1.027 
+Epoch 11  loss 1.049 
+Epoch 11  loss 1.056 
+Epoch 11  loss 1.038 
+Epoch 11  loss 1.021 
+train images	 avg loss: 1.064v, accuracy:  62.93^
+test images	 avg loss: 1.004v, accuracy:  65.22^
+Epoch 12  loss 1.059 
+Epoch 12  loss 1.046 
+Epoch 12  loss 1.036 
+Epoch 12  loss 1.009 
+Epoch 12  loss 1.052 
+Epoch 12  loss 0.997 
+Epoch 12  loss 1.026 
+Epoch 12  loss 1.021 
+Epoch 12  loss 1.001 
+Epoch 12  loss 1.013 
+train images	 avg loss: 0.996v, accuracy:  65.26^
+test images	 avg loss: 0.988v, accuracy:  65.74^
+Epoch 13  loss 1.043 
+Epoch 13  loss 1.009 
+Epoch 13  loss 1.000 
+Epoch 13  loss 0.972 
+Epoch 13  loss 0.980 
+Epoch 13  loss 0.984 
+Epoch 13  loss 0.974 
+Epoch 13  loss 0.999 
+Epoch 13  loss 0.974 
+Epoch 13  loss 0.997 
+train images	 avg loss: 1.034^, accuracy:  63.97v
+test images	 avg loss: 1.009^, accuracy:  64.79v
+Epoch 14  loss 0.979 
+Epoch 14  loss 0.978 
+Epoch 14  loss 0.969 
+Epoch 14  loss 0.940 
+Epoch 14  loss 0.991 
+Epoch 14  loss 0.979 
+Epoch 14  loss 0.960 
+Epoch 14  loss 0.963 
+Epoch 14  loss 0.986 
+Epoch 14  loss 0.948 
+train images	 avg loss: 1.040^, accuracy:  63.85v
+test images	 avg loss: 1.032^, accuracy:  65.09^
+Epoch 15  loss 1.002 
+Epoch 15  loss 0.955 
+Epoch 15  loss 0.941 
+Epoch 15  loss 0.946 
+Epoch 15  loss 0.954 
+Epoch 15  loss 0.947 
+Epoch 15  loss 0.941 
+Epoch 15  loss 0.934 
+Epoch 15  loss 0.961 
+Epoch 15  loss 0.916 
+train images	 avg loss: 1.001v, accuracy:  65.34^
+test images	 avg loss: 0.991v, accuracy:  65.60^
+Epoch 16  loss 0.966 
+Epoch 16  loss 0.924 
+Epoch 16  loss 0.940 
+Epoch 16  loss 0.952 
+Epoch 16  loss 0.931 
+Epoch 16  loss 0.913 
+Epoch 16  loss 0.917 
+Epoch 16  loss 0.963 
+Epoch 16  loss 0.939 
+Epoch 16  loss 0.936 
+train images	 avg loss: 1.039^, accuracy:  63.59v
+test images	 avg loss: 1.013^, accuracy:  65.08v
+Epoch 17  loss 0.969 
+Epoch 17  loss 0.927 
+Epoch 17  loss 0.921 
+Epoch 17  loss 0.920 
+Epoch 17  loss 0.926 
+Epoch 17  loss 0.887 
+Epoch 17  loss 0.893 
+Epoch 17  loss 0.924 
+Epoch 17  loss 0.916 
+Epoch 17  loss 0.927 
+train images	 avg loss: 0.993v, accuracy:  64.98^
+test images	 avg loss: 0.996v, accuracy:  66.09^
+Epoch 18  loss 0.914 
+Epoch 18  loss 0.908 
+Epoch 18  loss 0.910 
+Epoch 18  loss 0.887 
+Epoch 18  loss 0.885 
+Epoch 18  loss 0.927 
+Epoch 18  loss 0.902 
+Epoch 18  loss 0.924 
+Epoch 18  loss 0.868 
+Epoch 18  loss 0.887 
+train images	 avg loss: 0.929v, accuracy:  67.90^
+test images	 avg loss: 0.950v, accuracy:  67.84^
+Epoch 19  loss 0.895 
+Epoch 19  loss 0.858 
+Epoch 19  loss 0.915 
+Epoch 19  loss 0.888 
+Epoch 19  loss 0.888 
+Epoch 19  loss 0.871 
+Epoch 19  loss 0.869 
+Epoch 19  loss 0.898 
+Epoch 19  loss 0.870 
+Epoch 19  loss 0.870 
+train images	 avg loss: 0.979^, accuracy:  65.87v
+test images	 avg loss: 0.968^, accuracy:  67.21v
+Epoch 20  loss 0.887 
+Epoch 20  loss 0.874 
+Epoch 20  loss 0.914 
+Epoch 20  loss 0.873 
+Epoch 20  loss 0.869 
+Epoch 20  loss 0.858 
+Epoch 20  loss 0.857 
+Epoch 20  loss 0.882 
+Epoch 20  loss 0.862 
+Epoch 20  loss 0.862 
+train images	 avg loss: 0.965v, accuracy:  66.23^
+test images	 avg loss: 0.956v, accuracy:  67.47^
+Epoch 21  loss 0.902 
+Epoch 21  loss 0.884 
+Epoch 21  loss 0.849 
+Epoch 21  loss 0.849 
+Epoch 21  loss 0.877 
+Epoch 21  loss 0.860 
+Epoch 21  loss 0.870 
+Epoch 21  loss 0.847 
+Epoch 21  loss 0.879 
+Epoch 21  loss 0.845 
+train images	 avg loss: 0.925v, accuracy:  68.10^
+test images	 avg loss: 0.955v, accuracy:  68.18^
+Epoch 22  loss 0.869 
+Epoch 22  loss 0.837 
+Epoch 22  loss 0.850 
+Epoch 22  loss 0.822 
+Epoch 22  loss 0.878 
+Epoch 22  loss 0.849 
+Epoch 22  loss 0.866 
+Epoch 22  loss 0.855 
+Epoch 22  loss 0.861 
+Epoch 22  loss 0.844 
+train images	 avg loss: 0.914v, accuracy:  68.25^
+test images	 avg loss: 0.943v, accuracy:  68.27^
+Epoch 23  loss 0.906 
+Epoch 23  loss 0.843 
+Epoch 23  loss 0.795 
+Epoch 23  loss 0.832 
+Epoch 23  loss 0.874 
+Epoch 23  loss 0.839 
+Epoch 23  loss 0.830 
+Epoch 23  loss 0.856 
+Epoch 23  loss 0.847 
+Epoch 23  loss 0.840 
+train images	 avg loss: 0.956^, accuracy:  66.81v
+test images	 avg loss: 0.990^, accuracy:  67.05v
+Epoch 24  loss 0.908 
+Epoch 24  loss 0.877 
+Epoch 24  loss 0.853 
+Epoch 24  loss 0.806 
+Epoch 24  loss 0.823 
+Epoch 24  loss 0.837 
+Epoch 24  loss 0.850 
+Epoch 24  loss 0.846 
+Epoch 24  loss 0.846 
+Epoch 24  loss 0.825 
+train images	 avg loss: 0.892v, accuracy:  68.85^
+test images	 avg loss: 0.949v, accuracy:  68.20^
+Epoch 25  loss 0.861 
+Epoch 25  loss 0.827 
+Epoch 25  loss 0.797 
+Epoch 25  loss 0.832 
+Epoch 25  loss 0.780 
+Epoch 25  loss 0.801 
+Epoch 25  loss 0.812 
+Epoch 25  loss 0.840 
+Epoch 25  loss 0.828 
+Epoch 25  loss 0.819 
+train images	 avg loss: 0.929^, accuracy:  68.09v
+test images	 avg loss: 0.966^, accuracy:  68.04v
+Epoch 26  loss 0.833 
+Epoch 26  loss 0.837 
+Epoch 26  loss 0.818 
+Epoch 26  loss 0.803 
+Epoch 26  loss 0.813 
+Epoch 26  loss 0.784 
+Epoch 26  loss 0.801 
+Epoch 26  loss 0.786 
+Epoch 26  loss 0.812 
+Epoch 26  loss 0.803 
+train images	 avg loss: 0.876v, accuracy:  69.58^
+test images	 avg loss: 0.931v, accuracy:  68.76^
+Epoch 27  loss 0.810 
+Epoch 27  loss 0.810 
+Epoch 27  loss 0.819 
+Epoch 27  loss 0.799 
+Epoch 27  loss 0.792 
+Epoch 27  loss 0.804 
+Epoch 27  loss 0.781 
+Epoch 27  loss 0.769 
+Epoch 27  loss 0.786 
+Epoch 27  loss 0.818 
+train images	 avg loss: 0.879^, accuracy:  69.41v
+test images	 avg loss: 0.949^, accuracy:  67.87v
+Epoch 28  loss 0.839 
+Epoch 28  loss 0.826 
+Epoch 28  loss 0.798 
+Epoch 28  loss 0.832 
+Epoch 28  loss 0.780 
+Epoch 28  loss 0.789 
+Epoch 28  loss 0.788 
+Epoch 28  loss 0.797 
+Epoch 28  loss 0.740 
+Epoch 28  loss 0.804 
+train images	 avg loss: 0.851v, accuracy:  70.40^
+test images	 avg loss: 0.960^, accuracy:  68.61^
+Epoch 29  loss 0.817 
+Epoch 29  loss 0.773 
+Epoch 29  loss 0.768 
+Epoch 29  loss 0.806 
+Epoch 29  loss 0.776 
+Epoch 29  loss 0.778 
+Epoch 29  loss 0.793 
+Epoch 29  loss 0.801 
+Epoch 29  loss 0.789 
+Epoch 29  loss 0.774 
+train images	 avg loss: 0.827v, accuracy:  71.22^
+test images	 avg loss: 0.924v, accuracy:  68.83^
+Epoch 30  loss 0.821 
+Epoch 30  loss 0.777 
+Epoch 30  loss 0.769 
+Epoch 30  loss 0.788 
+Epoch 30  loss 0.768 
+Epoch 30  loss 0.742 
+Epoch 30  loss 0.741 
+Epoch 30  loss 0.807 
+Epoch 30  loss 0.772 
+Epoch 30  loss 0.773 
+train images	 avg loss: 0.827^, accuracy:  71.52^
+test images	 avg loss: 0.918v, accuracy:  69.85^
+Epoch 31  loss 0.804 
+Epoch 31  loss 0.804 
+Epoch 31  loss 0.764 
+Epoch 31  loss 0.794 
+Epoch 31  loss 0.765 
+Epoch 31  loss 0.772 
+Epoch 31  loss 0.777 
+Epoch 31  loss 0.773 
+Epoch 31  loss 0.726 
+Epoch 31  loss 0.764 
+train images	 avg loss: 0.882^, accuracy:  69.68v
+test images	 avg loss: 0.958^, accuracy:  68.37v
+Epoch 32  loss 0.800 
+Epoch 32  loss 0.823 
+Epoch 32  loss 0.792 
+Epoch 32  loss 0.773 
+Epoch 32  loss 0.712 
+Epoch 32  loss 0.763 
+Epoch 32  loss 0.752 
+Epoch 32  loss 0.766 
+Epoch 32  loss 0.751 
+Epoch 32  loss 0.750 
+train images	 avg loss: 0.871v, accuracy:  69.95^
+test images	 avg loss: 0.971^, accuracy:  68.82^
+Epoch 33  loss 0.808 
+Epoch 33  loss 0.778 
+Epoch 33  loss 0.765 
+Epoch 33  loss 0.772 
+Epoch 33  loss 0.755 
+Epoch 33  loss 0.774 
+Epoch 33  loss 0.745 
+Epoch 33  loss 0.733 
+Epoch 33  loss 0.751 
+Epoch 33  loss 0.756 
+train images	 avg loss: 0.875^, accuracy:  69.92v
+test images	 avg loss: 0.975^, accuracy:  68.52v
+Epoch 34  loss 0.773 
+Epoch 34  loss 0.724 
+Epoch 34  loss 0.729 
+Epoch 34  loss 0.744 
+Epoch 34  loss 0.775 
+Epoch 34  loss 0.762 
+Epoch 34  loss 0.748 
+Epoch 34  loss 0.763 
+Epoch 34  loss 0.747 
+Epoch 34  loss 0.748 
+train images	 avg loss: 0.830v, accuracy:  71.24^
+test images	 avg loss: 0.932v, accuracy:  69.89^
+Epoch 35  loss 0.759 
+Epoch 35  loss 0.769 
+Epoch 35  loss 0.742 
+Epoch 35  loss 0.746 
+Epoch 35  loss 0.749 
+Epoch 35  loss 0.758 
+Epoch 35  loss 0.708 
+Epoch 35  loss 0.710 
+Epoch 35  loss 0.768 
+Epoch 35  loss 0.753 
+train images	 avg loss: 0.823v, accuracy:  71.20v
+test images	 avg loss: 0.958^, accuracy:  68.89v
+Epoch 36  loss 0.755 
+Epoch 36  loss 0.753 
+Epoch 36  loss 0.728 
+Epoch 36  loss 0.753 
+Epoch 36  loss 0.710 
+Epoch 36  loss 0.725 
+Epoch 36  loss 0.746 
+Epoch 36  loss 0.737 
+Epoch 36  loss 0.712 
+Epoch 36  loss 0.751 
+train images	 avg loss: 0.816v, accuracy:  71.56^
+test images	 avg loss: 0.936v, accuracy:  69.33^
+Epoch 37  loss 0.771 
+Epoch 37  loss 0.737 
+Epoch 37  loss 0.742 
+Epoch 37  loss 0.722 
+Epoch 37  loss 0.741 
+Epoch 37  loss 0.702 
+Epoch 37  loss 0.767 
+Epoch 37  loss 0.734 
+Epoch 37  loss 0.738 
+Epoch 37  loss 0.752 
+train images	 avg loss: 0.808v, accuracy:  71.89^
+test images	 avg loss: 0.932v, accuracy:  69.71^
+Epoch 38  loss 0.743 
+Epoch 38  loss 0.718 
+Epoch 38  loss 0.755 
+Epoch 38  loss 0.725 
+Epoch 38  loss 0.741 
+Epoch 38  loss 0.737 
+Epoch 38  loss 0.699 
+Epoch 38  loss 0.735 
+Epoch 38  loss 0.716 
+Epoch 38  loss 0.740 
+train images	 avg loss: 0.836^, accuracy:  71.15v
+test images	 avg loss: 0.946^, accuracy:  69.43v
+Epoch 39  loss 0.754 
+Epoch 39  loss 0.727 
+Epoch 39  loss 0.735 
+Epoch 39  loss 0.718 
+Epoch 39  loss 0.712 
+Epoch 39  loss 0.719 
+Epoch 39  loss 0.700 
+Epoch 39  loss 0.739 
+Epoch 39  loss 0.682 
+Epoch 39  loss 0.720 
+train images	 avg loss: 0.829v, accuracy:  71.03v
+test images	 avg loss: 0.958^, accuracy:  69.27v
+Epoch 40  loss 0.729 
+Epoch 40  loss 0.761 
+Epoch 40  loss 0.744 
+Epoch 40  loss 0.678 
+Epoch 40  loss 0.715 
+Epoch 40  loss 0.718 
+Epoch 40  loss 0.746 
+Epoch 40  loss 0.707 
+Epoch 40  loss 0.711 
+Epoch 40  loss 0.722 
+train images	 avg loss: 0.789v, accuracy:  72.44^
+test images	 avg loss: 0.939v, accuracy:  69.64^
+Epoch 41  loss 0.709 
+Epoch 41  loss 0.704 
+Epoch 41  loss 0.711 
+Epoch 41  loss 0.723 
+Epoch 41  loss 0.702 
+Epoch 41  loss 0.704 
+Epoch 41  loss 0.711 
+Epoch 41  loss 0.725 
+Epoch 41  loss 0.673 
+Epoch 41  loss 0.714 
+train images	 avg loss: 0.844^, accuracy:  70.49v
+test images	 avg loss: 0.966^, accuracy:  68.97v
+Epoch 42  loss 0.746 
+Epoch 42  loss 0.747 
+Epoch 42  loss 0.693 
+Epoch 42  loss 0.698 
+Epoch 42  loss 0.699 
+Epoch 42  loss 0.703 
+Epoch 42  loss 0.674 
+Epoch 42  loss 0.704 
+Epoch 42  loss 0.692 
+Epoch 42  loss 0.705 
+train images	 avg loss: 0.779v, accuracy:  72.69^
+test images	 avg loss: 0.954v, accuracy:  69.56^
+Epoch 43  loss 0.737 
+Epoch 43  loss 0.713 
+Epoch 43  loss 0.703 
+Epoch 43  loss 0.692 
+Epoch 43  loss 0.701 
+Epoch 43  loss 0.715 
+Epoch 43  loss 0.688 
+Epoch 43  loss 0.702 
+Epoch 43  loss 0.694 
+Epoch 43  loss 0.714 
+train images	 avg loss: 0.836^, accuracy:  70.94v
+test images	 avg loss: 0.951v, accuracy:  69.11v
+Epoch 44  loss 0.764 
+Epoch 44  loss 0.712 
+Epoch 44  loss 0.684 
+Epoch 44  loss 0.673 
+Epoch 44  loss 0.684 
+Epoch 44  loss 0.686 
+Epoch 44  loss 0.683 
+Epoch 44  loss 0.666 
+Epoch 44  loss 0.701 
+Epoch 44  loss 0.716 
+train images	 avg loss: 0.749v, accuracy:  74.06^
+test images	 avg loss: 0.917v, accuracy:  71.19^
+Epoch 45  loss 0.707 
+Epoch 45  loss 0.698 
+Epoch 45  loss 0.678 
+Epoch 45  loss 0.667 
+Epoch 45  loss 0.699 
+Epoch 45  loss 0.696 
+Epoch 45  loss 0.678 
+Epoch 45  loss 0.687 
+Epoch 45  loss 0.694 
+Epoch 45  loss 0.693 
+train images	 avg loss: 0.780^, accuracy:  73.07v
+test images	 avg loss: 0.926^, accuracy:  70.48v
+Epoch 46  loss 0.754 
+Epoch 46  loss 0.729 
+Epoch 46  loss 0.705 
+Epoch 46  loss 0.671 
+Epoch 46  loss 0.705 
+Epoch 46  loss 0.670 
+Epoch 46  loss 0.709 
+Epoch 46  loss 0.674 
+Epoch 46  loss 0.679 
+Epoch 46  loss 0.678 
+train images	 avg loss: 0.770v, accuracy:  73.22^
+test images	 avg loss: 0.929^, accuracy:  71.00^
+Epoch 47  loss 0.706 
+Epoch 47  loss 0.693 
+Epoch 47  loss 0.689 
+Epoch 47  loss 0.677 
+Epoch 47  loss 0.658 
+Epoch 47  loss 0.670 
+Epoch 47  loss 0.674 
+Epoch 47  loss 0.676 
+Epoch 47  loss 0.678 
+Epoch 47  loss 0.692 
+train images	 avg loss: 0.797^, accuracy:  72.31v
+test images	 avg loss: 0.951^, accuracy:  69.90v
+Epoch 48  loss 0.699 
+Epoch 48  loss 0.679 
+Epoch 48  loss 0.688 
+Epoch 48  loss 0.655 
+Epoch 48  loss 0.643 
+Epoch 48  loss 0.698 
+Epoch 48  loss 0.681 
+Epoch 48  loss 0.684 
+Epoch 48  loss 0.670 
+Epoch 48  loss 0.696 
+train images	 avg loss: 0.733v, accuracy:  74.49^
+test images	 avg loss: 0.912v, accuracy:  70.94^
+Epoch 49  loss 0.688 
+Epoch 49  loss 0.702 
+Epoch 49  loss 0.675 
+Epoch 49  loss 0.684 
+Epoch 49  loss 0.667 
+Epoch 49  loss 0.673 
+Epoch 49  loss 0.681 
+Epoch 49  loss 0.694 
+Epoch 49  loss 0.684 
+Epoch 49  loss 0.684 
+train images	 avg loss: 0.752^, accuracy:  73.86v
+test images	 avg loss: 0.944^, accuracy:  69.93v
+Epoch 50  loss 0.708 
+Epoch 50  loss 0.658 
+Epoch 50  loss 0.657 
+Epoch 50  loss 0.654 
+Epoch 50  loss 0.679 
+Epoch 50  loss 0.692 
+Epoch 50  loss 0.676 
+Epoch 50  loss 0.668 
+Epoch 50  loss 0.703 
+Epoch 50  loss 0.662 
+train images	 avg loss: 0.799^, accuracy:  72.07v
+test images	 avg loss: 0.975^, accuracy:  69.43v
+Epoch 51  loss 0.718 
+Epoch 51  loss 0.686 
+Epoch 51  loss 0.653 
+Epoch 51  loss 0.673 
+Epoch 51  loss 0.664 
+Epoch 51  loss 0.672 
+Epoch 51  loss 0.689 
+Epoch 51  loss 0.708 
+Epoch 51  loss 0.657 
+Epoch 51  loss 0.671 
+train images	 avg loss: 0.775v, accuracy:  73.15^
+test images	 avg loss: 0.972v, accuracy:  70.10^
+Epoch 52  loss 0.709 
+Epoch 52  loss 0.670 
+Epoch 52  loss 0.650 
+Epoch 52  loss 0.656 
+Epoch 52  loss 0.653 
+Epoch 52  loss 0.657 
+Epoch 52  loss 0.675 
+Epoch 52  loss 0.667 
+Epoch 52  loss 0.671 
+Epoch 52  loss 0.658 
+train images	 avg loss: 0.739v, accuracy:  74.40^
+test images	 avg loss: 0.941v, accuracy:  70.62^
+Epoch 53  loss 0.721 
+Epoch 53  loss 0.673 
+Epoch 53  loss 0.686 
+Epoch 53  loss 0.673 
+Epoch 53  loss 0.650 
+Epoch 53  loss 0.651 
+Epoch 53  loss 0.645 
+Epoch 53  loss 0.643 
+Epoch 53  loss 0.671 
+Epoch 53  loss 0.652 
+train images	 avg loss: 0.728v, accuracy:  74.72^
+test images	 avg loss: 0.957^, accuracy:  70.00v
+Epoch 54  loss 0.701 
+Epoch 54  loss 0.675 
+Epoch 54  loss 0.644 
+Epoch 54  loss 0.665 
+Epoch 54  loss 0.658 
+Epoch 54  loss 0.654 
+Epoch 54  loss 0.652 
+Epoch 54  loss 0.672 
+Epoch 54  loss 0.627 
+Epoch 54  loss 0.647 
+train images	 avg loss: 0.755^, accuracy:  73.67v
+test images	 avg loss: 0.973^, accuracy:  69.78v
+Epoch 55  loss 0.667 
+Epoch 55  loss 0.680 
+Epoch 55  loss 0.675 
+Epoch 55  loss 0.684 
+Epoch 55  loss 0.644 
+Epoch 55  loss 0.638 
+Epoch 55  loss 0.677 
+Epoch 55  loss 0.655 
+Epoch 55  loss 0.672 
+Epoch 55  loss 0.666 
+train images	 avg loss: 0.740v, accuracy:  74.14^
+test images	 avg loss: 0.929v, accuracy:  70.88^
+Epoch 56  loss 0.725 
+Epoch 56  loss 0.643 
+Epoch 56  loss 0.634 
+Epoch 56  loss 0.656 
+Epoch 56  loss 0.672 
+Epoch 56  loss 0.627 
+Epoch 56  loss 0.641 
+Epoch 56  loss 0.623 
+Epoch 56  loss 0.648 
+Epoch 56  loss 0.654 
+train images	 avg loss: 0.745^, accuracy:  73.97v
+test images	 avg loss: 0.953^, accuracy:  70.82v
+Epoch 57  loss 0.665 
+Epoch 57  loss 0.679 
+Epoch 57  loss 0.630 
+Epoch 57  loss 0.634 
+Epoch 57  loss 0.699 
+Epoch 57  loss 0.643 
+Epoch 57  loss 0.650 
+Epoch 57  loss 0.653 
+Epoch 57  loss 0.654 
+Epoch 57  loss 0.621 
+train images	 avg loss: 0.756^, accuracy:  73.91v
+test images	 avg loss: 0.968^, accuracy:  70.28v
+Epoch 58  loss 0.698 
+Epoch 58  loss 0.646 
+Epoch 58  loss 0.643 
+Epoch 58  loss 0.652 
+Epoch 58  loss 0.660 
+Epoch 58  loss 0.652 
+Epoch 58  loss 0.636 
+Epoch 58  loss 0.637 
+Epoch 58  loss 0.638 
+Epoch 58  loss 0.657 
+train images	 avg loss: 0.747v, accuracy:  74.12^
+test images	 avg loss: 0.978^, accuracy:  70.25v
+Epoch 59  loss 0.678 
+Epoch 59  loss 0.664 
+Epoch 59  loss 0.634 
+Epoch 59  loss 0.649 
+Epoch 59  loss 0.648 
+Epoch 59  loss 0.631 
+Epoch 59  loss 0.644 
+Epoch 59  loss 0.625 
+Epoch 59  loss 0.665 
+Epoch 59  loss 0.613 
+train images	 avg loss: 0.763^, accuracy:  73.72v
+test images	 avg loss: 0.974v, accuracy:  69.94v
+Epoch 60  loss 0.676 
+Epoch 60  loss 0.636 
+Epoch 60  loss 0.627 
+Epoch 60  loss 0.637 
+Epoch 60  loss 0.641 
+Epoch 60  loss 0.644 
+Epoch 60  loss 0.639 
+Epoch 60  loss 0.629 
+Epoch 60  loss 0.622 
+Epoch 60  loss 0.612 
+train images	 avg loss: 0.734v, accuracy:  74.50^
+test images	 avg loss: 0.972v, accuracy:  70.28^
+Epoch 61  loss 0.694 
+Epoch 61  loss 0.656 
+Epoch 61  loss 0.661 
+Epoch 61  loss 0.638 
+Epoch 61  loss 0.636 
+Epoch 61  loss 0.613 
+Epoch 61  loss 0.621 
+Epoch 61  loss 0.651 
+Epoch 61  loss 0.638 
+Epoch 61  loss 0.640 
+train images	 avg loss: 0.715v, accuracy:  75.49^
+test images	 avg loss: 0.934v, accuracy:  71.21^
+Epoch 62  loss 0.670 
+Epoch 62  loss 0.638 
+Epoch 62  loss 0.654 
+Epoch 62  loss 0.658 
+Epoch 62  loss 0.617 
+Epoch 62  loss 0.607 
+Epoch 62  loss 0.652 
+Epoch 62  loss 0.641 
+Epoch 62  loss 0.642 
+Epoch 62  loss 0.627 
+train images	 avg loss: 0.694v, accuracy:  75.87^
+test images	 avg loss: 0.922v, accuracy:  71.03v
+Epoch 63  loss 0.672 
+Epoch 63  loss 0.608 
+Epoch 63  loss 0.624 
+Epoch 63  loss 0.634 
+Epoch 63  loss 0.661 
+Epoch 63  loss 0.602 
+Epoch 63  loss 0.629 
+Epoch 63  loss 0.617 
+Epoch 63  loss 0.639 
+Epoch 63  loss 0.609 
+train images	 avg loss: 0.759^, accuracy:  73.81v
+test images	 avg loss: 0.998^, accuracy:  69.41v
+Epoch 64  loss 0.657 
+Epoch 64  loss 0.654 
+Epoch 64  loss 0.641 
+Epoch 64  loss 0.600 
+Epoch 64  loss 0.622 
+Epoch 64  loss 0.637 
+Epoch 64  loss 0.639 
+Epoch 64  loss 0.637 
+Epoch 64  loss 0.614 
+Epoch 64  loss 0.619 
+train images	 avg loss: 0.755v, accuracy:  73.88^
+test images	 avg loss: 0.981v, accuracy:  69.85^
+Epoch 65  loss 0.664 
+Epoch 65  loss 0.637 
+Epoch 65  loss 0.614 
+Epoch 65  loss 0.632 
+Epoch 65  loss 0.634 
+Epoch 65  loss 0.615 
+Epoch 65  loss 0.631 
+Epoch 65  loss 0.630 
+Epoch 65  loss 0.626 
+Epoch 65  loss 0.620 
+train images	 avg loss: 0.730v, accuracy:  74.88^
+test images	 avg loss: 0.955v, accuracy:  70.88^
+Epoch 66  loss 0.659 
+Epoch 66  loss 0.614 
+Epoch 66  loss 0.630 
+Epoch 66  loss 0.631 
+Epoch 66  loss 0.614 
+Epoch 66  loss 0.633 
+Epoch 66  loss 0.658 
+Epoch 66  loss 0.625 
+Epoch 66  loss 0.636 
+Epoch 66  loss 0.594 
+train images	 avg loss: 0.712v, accuracy:  75.39^
+test images	 avg loss: 0.973^, accuracy:  70.62v
+Epoch 67  loss 0.636 
+Epoch 67  loss 0.627 
+Epoch 67  loss 0.631 
+Epoch 67  loss 0.635 
+Epoch 67  loss 0.616 
+Epoch 67  loss 0.628 
+Epoch 67  loss 0.642 
+Epoch 67  loss 0.637 
+Epoch 67  loss 0.628 
+Epoch 67  loss 0.636 
+train images	 avg loss: 0.706v, accuracy:  75.47^
+test images	 avg loss: 0.960v, accuracy:  70.34v
+Epoch 68  loss 0.662 
+Epoch 68  loss 0.631 
+Epoch 68  loss 0.612 
+Epoch 68  loss 0.647 
+Epoch 68  loss 0.601 
+Epoch 68  loss 0.617 
+Epoch 68  loss 0.593 
+Epoch 68  loss 0.627 
+Epoch 68  loss 0.602 
+Epoch 68  loss 0.607 
+train images	 avg loss: 0.698v, accuracy:  75.90^
+test images	 avg loss: 0.951v, accuracy:  70.57^
+Epoch 69  loss 0.651 
+Epoch 69  loss 0.644 
+Epoch 69  loss 0.615 
+Epoch 69  loss 0.600 
+Epoch 69  loss 0.610 
+Epoch 69  loss 0.619 
+Epoch 69  loss 0.629 
+Epoch 69  loss 0.586 
+Epoch 69  loss 0.617 
+Epoch 69  loss 0.620 
+train images	 avg loss: 0.706^, accuracy:  75.67v
+test images	 avg loss: 0.954^, accuracy:  71.27^
+Epoch 70  loss 0.646 
+Epoch 70  loss 0.581 
+Epoch 70  loss 0.642 
+Epoch 70  loss 0.639 
+Epoch 70  loss 0.606 
+Epoch 70  loss 0.592 
+Epoch 70  loss 0.609 
+Epoch 70  loss 0.621 
+Epoch 70  loss 0.609 
+Epoch 70  loss 0.641 
+train images	 avg loss: 0.715^, accuracy:  75.09v
+test images	 avg loss: 0.957^, accuracy:  71.21v
+Epoch 71  loss 0.660 
+Epoch 71  loss 0.613 
+Epoch 71  loss 0.629 
+Epoch 71  loss 0.588 
+Epoch 71  loss 0.600 
+Epoch 71  loss 0.612 
+Epoch 71  loss 0.597 
+Epoch 71  loss 0.601 
+Epoch 71  loss 0.612 
+Epoch 71  loss 0.611 
+train images	 avg loss: 0.777^, accuracy:  73.08v
+test images	 avg loss: 1.013^, accuracy:  69.19v
+Epoch 72  loss 0.679 
+Epoch 72  loss 0.618 
+Epoch 72  loss 0.615 
+Epoch 72  loss 0.628 
+Epoch 72  loss 0.607 
+Epoch 72  loss 0.595 
+Epoch 72  loss 0.597 
+Epoch 72  loss 0.607 
+Epoch 72  loss 0.632 
+Epoch 72  loss 0.582 
+train images	 avg loss: 0.704v, accuracy:  75.58^
+test images	 avg loss: 0.999v, accuracy:  70.11^
+Epoch 73  loss 0.644 
+Epoch 73  loss 0.609 
+Epoch 73  loss 0.604 
+Epoch 73  loss 0.607 
+Epoch 73  loss 0.590 
+Epoch 73  loss 0.623 
+Epoch 73  loss 0.621 
+Epoch 73  loss 0.586 
+Epoch 73  loss 0.590 
+Epoch 73  loss 0.624 
+train images	 avg loss: 0.743^, accuracy:  73.99v
+test images	 avg loss: 1.003^, accuracy:  69.29v
+Epoch 74  loss 0.663 
+Epoch 74  loss 0.616 
+Epoch 74  loss 0.631 
+Epoch 74  loss 0.627 
+Epoch 74  loss 0.581 
+Epoch 74  loss 0.582 
+Epoch 74  loss 0.605 
+Epoch 74  loss 0.585 
+Epoch 74  loss 0.582 
+Epoch 74  loss 0.609 
+train images	 avg loss: 0.677v, accuracy:  76.47^
+test images	 avg loss: 0.936v, accuracy:  71.13^
+Epoch 75  loss 0.651 
+Epoch 75  loss 0.581 
+Epoch 75  loss 0.594 
+Epoch 75  loss 0.611 
+Epoch 75  loss 0.602 
+Epoch 75  loss 0.612 
+Epoch 75  loss 0.606 
+Epoch 75  loss 0.619 
+Epoch 75  loss 0.589 
+Epoch 75  loss 0.606 
+train images	 avg loss: 0.711^, accuracy:  75.24v
+test images	 avg loss: 0.974^, accuracy:  70.51v
+Epoch 76  loss 0.671 
+Epoch 76  loss 0.621 
+Epoch 76  loss 0.605 
+Epoch 76  loss 0.608 
+Epoch 76  loss 0.576 
+Epoch 76  loss 0.576 
+Epoch 76  loss 0.598 
+Epoch 76  loss 0.585 
+Epoch 76  loss 0.627 
+Epoch 76  loss 0.599 
+train images	 avg loss: 0.726^, accuracy:  74.80v
+test images	 avg loss: 0.987^, accuracy:  69.97v
+Epoch 77  loss 0.625 
+Epoch 77  loss 0.570 
+Epoch 77  loss 0.571 
+Epoch 77  loss 0.594 
+Epoch 77  loss 0.594 
+Epoch 77  loss 0.610 
+Epoch 77  loss 0.608 
+Epoch 77  loss 0.549 
+Epoch 77  loss 0.630 
+Epoch 77  loss 0.628 
+train images	 avg loss: 0.749^, accuracy:  74.08v
+test images	 avg loss: 0.992^, accuracy:  69.52v
+Epoch 78  loss 0.663 
+Epoch 78  loss 0.617 
+Epoch 78  loss 0.621 
+Epoch 78  loss 0.613 
+Epoch 78  loss 0.583 
+Epoch 78  loss 0.578 
+Epoch 78  loss 0.562 
+Epoch 78  loss 0.577 
+Epoch 78  loss 0.569 
+Epoch 78  loss 0.583 
+train images	 avg loss: 0.764^, accuracy:  73.63v
+test images	 avg loss: 1.015^, accuracy:  69.86^
+Epoch 79  loss 0.661 
+Epoch 79  loss 0.619 
+Epoch 79  loss 0.602 
+Epoch 79  loss 0.590 
+Epoch 79  loss 0.581 
+Epoch 79  loss 0.608 
+Epoch 79  loss 0.581 
+Epoch 79  loss 0.570 
+Epoch 79  loss 0.603 
+Epoch 79  loss 0.565 
+train images	 avg loss: 0.688v, accuracy:  75.98^
+test images	 avg loss: 0.992v, accuracy:  70.87^
+Epoch 80  loss 0.601 
+Epoch 80  loss 0.593 
+Epoch 80  loss 0.615 
+Epoch 80  loss 0.627 
+Epoch 80  loss 0.618 
+Epoch 80  loss 0.585 
+Epoch 80  loss 0.605 
+Epoch 80  loss 0.588 
+Epoch 80  loss 0.602 
+Epoch 80  loss 0.573 
+train images	 avg loss: 0.692^, accuracy:  76.32^
+test images	 avg loss: 0.989v, accuracy:  70.82v
+Epoch 81  loss 0.670 
+Epoch 81  loss 0.612 
+Epoch 81  loss 0.625 
+Epoch 81  loss 0.602 
+Epoch 81  loss 0.579 
+Epoch 81  loss 0.585 
+Epoch 81  loss 0.588 
+Epoch 81  loss 0.594 
+Epoch 81  loss 0.596 
+Epoch 81  loss 0.602 
+train images	 avg loss: 0.653v, accuracy:  77.36^
+test images	 avg loss: 0.963v, accuracy:  71.37^
+Epoch 82  loss 0.627 
+Epoch 82  loss 0.584 
+Epoch 82  loss 0.624 
+Epoch 82  loss 0.585 
+Epoch 82  loss 0.603 
+Epoch 82  loss 0.589 
+Epoch 82  loss 0.600 
+Epoch 82  loss 0.553 
+Epoch 82  loss 0.586 
+Epoch 82  loss 0.561 
+train images	 avg loss: 0.747^, accuracy:  74.21v
+test images	 avg loss: 1.024^, accuracy:  70.03v
+Epoch 83  loss 0.653 
+Epoch 83  loss 0.606 
+Epoch 83  loss 0.590 
+Epoch 83  loss 0.599 
+Epoch 83  loss 0.582 
+Epoch 83  loss 0.593 
+Epoch 83  loss 0.572 
+Epoch 83  loss 0.614 
+Epoch 83  loss 0.543 
+Epoch 83  loss 0.575 
+train images	 avg loss: 0.679v, accuracy:  76.54^
+test images	 avg loss: 1.010v, accuracy:  70.30^
+Epoch 84  loss 0.646 
+Epoch 84  loss 0.601 
+Epoch 84  loss 0.551 
+Epoch 84  loss 0.576 
+Epoch 84  loss 0.598 
+Epoch 84  loss 0.599 
+Epoch 84  loss 0.622 
+Epoch 84  loss 0.581 
+Epoch 84  loss 0.578 
+Epoch 84  loss 0.597 
+train images	 avg loss: 0.710^, accuracy:  75.46v
+test images	 avg loss: 1.013^, accuracy:  70.23v
+Epoch 85  loss 0.618 
+Epoch 85  loss 0.601 
+Epoch 85  loss 0.592 
+Epoch 85  loss 0.568 
+Epoch 85  loss 0.583 
+Epoch 85  loss 0.575 
+Epoch 85  loss 0.553 
+Epoch 85  loss 0.557 
+Epoch 85  loss 0.575 
+Epoch 85  loss 0.601 
+train images	 avg loss: 0.724^, accuracy:  74.94v
+test images	 avg loss: 1.020^, accuracy:  70.34^
+Epoch 86  loss 0.620 
+Epoch 86  loss 0.573 
+Epoch 86  loss 0.605 
+Epoch 86  loss 0.572 
+Epoch 86  loss 0.582 
+Epoch 86  loss 0.585 
+Epoch 86  loss 0.586 
+Epoch 86  loss 0.558 
+Epoch 86  loss 0.602 
+Epoch 86  loss 0.604 
+train images	 avg loss: 0.682v, accuracy:  76.23^
+test images	 avg loss: 0.998v, accuracy:  70.14v
+Epoch 87  loss 0.622 
+Epoch 87  loss 0.592 
+Epoch 87  loss 0.564 
+Epoch 87  loss 0.551 
+Epoch 87  loss 0.591 
+Epoch 87  loss 0.593 
+Epoch 87  loss 0.582 
+Epoch 87  loss 0.583 
+Epoch 87  loss 0.561 
+Epoch 87  loss 0.552 
+train images	 avg loss: 0.737^, accuracy:  74.60v
+test images	 avg loss: 1.009^, accuracy:  70.46^
+Epoch 88  loss 0.623 
+Epoch 88  loss 0.579 
+Epoch 88  loss 0.605 
+Epoch 88  loss 0.571 
+Epoch 88  loss 0.595 
+Epoch 88  loss 0.594 
+Epoch 88  loss 0.574 
+Epoch 88  loss 0.576 
+Epoch 88  loss 0.568 
+Epoch 88  loss 0.574 
+train images	 avg loss: 0.711v, accuracy:  75.39^
+test images	 avg loss: 1.037^, accuracy:  69.97v
+Epoch 89  loss 0.646 
+Epoch 89  loss 0.564 
+Epoch 89  loss 0.588 
+Epoch 89  loss 0.550 
+Epoch 89  loss 0.552 
+Epoch 89  loss 0.547 
+Epoch 89  loss 0.563 
+Epoch 89  loss 0.568 
+Epoch 89  loss 0.540 
+Epoch 89  loss 0.565 
+train images	 avg loss: 0.676v, accuracy:  76.64^
+test images	 avg loss: 0.996v, accuracy:  70.72^
+Epoch 90  loss 0.620 
+Epoch 90  loss 0.594 
+Epoch 90  loss 0.594 
+Epoch 90  loss 0.576 
+Epoch 90  loss 0.557 
+Epoch 90  loss 0.588 
+Epoch 90  loss 0.578 
+Epoch 90  loss 0.542 
+Epoch 90  loss 0.582 
+Epoch 90  loss 0.556 
+train images	 avg loss: 0.645v, accuracy:  77.58^
+test images	 avg loss: 0.975v, accuracy:  71.37^
+Epoch 91  loss 0.618 
+Epoch 91  loss 0.594 
+Epoch 91  loss 0.580 
+Epoch 91  loss 0.612 
+Epoch 91  loss 0.589 
+Epoch 91  loss 0.598 
+Epoch 91  loss 0.569 
+Epoch 91  loss 0.556 
+Epoch 91  loss 0.592 
+Epoch 91  loss 0.567 
+train images	 avg loss: 0.691^, accuracy:  76.06v
+test images	 avg loss: 1.025^, accuracy:  69.95v
+Epoch 92  loss 0.641 
+Epoch 92  loss 0.584 
+Epoch 92  loss 0.599 
+Epoch 92  loss 0.586 
+Epoch 92  loss 0.574 
+Epoch 92  loss 0.560 
+Epoch 92  loss 0.586 
+Epoch 92  loss 0.574 
+Epoch 92  loss 0.560 
+Epoch 92  loss 0.544 
+train images	 avg loss: 0.700^, accuracy:  75.74v
+test images	 avg loss: 1.007v, accuracy:  70.83^
+Epoch 93  loss 0.598 
+Epoch 93  loss 0.549 
+Epoch 93  loss 0.557 
+Epoch 93  loss 0.561 
+Epoch 93  loss 0.588 
+Epoch 93  loss 0.550 
+Epoch 93  loss 0.551 
+Epoch 93  loss 0.584 
+Epoch 93  loss 0.559 
+Epoch 93  loss 0.584 
+train images	 avg loss: 0.654v, accuracy:  77.13^
+test images	 avg loss: 0.995v, accuracy:  70.93^
+Epoch 94  loss 0.593 
+Epoch 94  loss 0.582 
+Epoch 94  loss 0.594 
+Epoch 94  loss 0.578 
+Epoch 94  loss 0.549 
+Epoch 94  loss 0.551 
+Epoch 94  loss 0.577 
+Epoch 94  loss 0.576 
+Epoch 94  loss 0.566 
+Epoch 94  loss 0.571 
+train images	 avg loss: 0.680^, accuracy:  76.59v
+test images	 avg loss: 0.995^, accuracy:  70.81v
+Epoch 95  loss 0.624 
+Epoch 95  loss 0.565 
+Epoch 95  loss 0.576 
+Epoch 95  loss 0.558 
+Epoch 95  loss 0.578 
+Epoch 95  loss 0.580 
+Epoch 95  loss 0.540 
+Epoch 95  loss 0.548 
+Epoch 95  loss 0.535 
+Epoch 95  loss 0.565 
+train images	 avg loss: 0.669v, accuracy:  76.89^
+test images	 avg loss: 1.005^, accuracy:  70.44v
+Epoch 96  loss 0.575 
+Epoch 96  loss 0.597 
+Epoch 96  loss 0.558 
+Epoch 96  loss 0.537 
+Epoch 96  loss 0.574 
+Epoch 96  loss 0.559 
+Epoch 96  loss 0.537 
+Epoch 96  loss 0.569 
+Epoch 96  loss 0.576 
+Epoch 96  loss 0.550 
+train images	 avg loss: 0.689^, accuracy:  76.29v
+test images	 avg loss: 1.010^, accuracy:  70.56^
+Epoch 97  loss 0.622 
+Epoch 97  loss 0.563 
+Epoch 97  loss 0.572 
+Epoch 97  loss 0.551 
+Epoch 97  loss 0.568 
+Epoch 97  loss 0.552 
+Epoch 97  loss 0.543 
+Epoch 97  loss 0.572 
+Epoch 97  loss 0.545 
+Epoch 97  loss 0.552 
+train images	 avg loss: 0.689^, accuracy:  76.22v
+test images	 avg loss: 1.029^, accuracy:  70.17v
+Epoch 98  loss 0.594 
+Epoch 98  loss 0.575 
+Epoch 98  loss 0.531 
+Epoch 98  loss 0.560 
+Epoch 98  loss 0.559 
+Epoch 98  loss 0.559 
+Epoch 98  loss 0.561 
+Epoch 98  loss 0.551 
+Epoch 98  loss 0.545 
+Epoch 98  loss 0.563 
+train images	 avg loss: 0.613v, accuracy:  78.71^
+test images	 avg loss: 0.982v, accuracy:  71.65^
+Epoch 99  loss 0.584 
+Epoch 99  loss 0.550 
+Epoch 99  loss 0.538 
+Epoch 99  loss 0.569 
+Epoch 99  loss 0.590 
+Epoch 99  loss 0.560 
+Epoch 99  loss 0.550 
+Epoch 99  loss 0.539 
+Epoch 99  loss 0.560 
+Epoch 99  loss 0.568 
+train images	 avg loss: 0.676^, accuracy:  76.54v
+test images	 avg loss: 0.991^, accuracy:  70.20v
+Epoch 100  loss 0.611 
+Epoch 100  loss 0.573 
+Epoch 100  loss 0.557 
+Epoch 100  loss 0.547 
+Epoch 100  loss 0.567 
+Epoch 100  loss 0.553 
+Epoch 100  loss 0.576 
+Epoch 100  loss 0.554 
+Epoch 100  loss 0.531 
+Epoch 100  loss 0.560 
+train images	 avg loss: 0.645v, accuracy:  77.72^
+test images	 avg loss: 1.013^, accuracy:  71.08^
+Epoch 101  loss 0.592 
+Epoch 101  loss 0.542 
+Epoch 101  loss 0.554 
+Epoch 101  loss 0.530 
+Epoch 101  loss 0.563 
+Epoch 101  loss 0.547 
+Epoch 101  loss 0.522 
+Epoch 101  loss 0.564 
+Epoch 101  loss 0.589 
+Epoch 101  loss 0.534 
+train images	 avg loss: 0.599v, accuracy:  79.29^
+test images	 avg loss: 0.987v, accuracy:  71.34^
+Epoch 102  loss 0.586 
+Epoch 102  loss 0.566 
+Epoch 102  loss 0.569 
+Epoch 102  loss 0.542 
+Epoch 102  loss 0.552 
+Epoch 102  loss 0.555 
+Epoch 102  loss 0.536 
+Epoch 102  loss 0.542 
+Epoch 102  loss 0.561 
+Epoch 102  loss 0.525 
+train images	 avg loss: 0.641^, accuracy:  77.83v
+test images	 avg loss: 1.020^, accuracy:  70.92v
+Epoch 103  loss 0.588 
+Epoch 103  loss 0.563 
+Epoch 103  loss 0.558 
+Epoch 103  loss 0.577 
+Epoch 103  loss 0.565 
+Epoch 103  loss 0.547 
+Epoch 103  loss 0.560 
+Epoch 103  loss 0.561 
+Epoch 103  loss 0.561 
+Epoch 103  loss 0.543 
+train images	 avg loss: 0.659^, accuracy:  77.34v
+test images	 avg loss: 0.989v, accuracy:  71.12^
+Epoch 104  loss 0.591 
+Epoch 104  loss 0.566 
+Epoch 104  loss 0.530 
+Epoch 104  loss 0.558 
+Epoch 104  loss 0.567 
+Epoch 104  loss 0.555 
+Epoch 104  loss 0.527 
+Epoch 104  loss 0.574 
+Epoch 104  loss 0.538 
+Epoch 104  loss 0.542 
+train images	 avg loss: 0.642v, accuracy:  77.77^
+test images	 avg loss: 1.006^, accuracy:  71.28^
+Epoch 105  loss 0.578 
+Epoch 105  loss 0.567 
+Epoch 105  loss 0.511 
+Epoch 105  loss 0.552 
+Epoch 105  loss 0.551 
+Epoch 105  loss 0.547 
+Epoch 105  loss 0.552 
+Epoch 105  loss 0.556 
+Epoch 105  loss 0.576 
+Epoch 105  loss 0.538 
+train images	 avg loss: 0.703^, accuracy:  75.88v
+test images	 avg loss: 1.043^, accuracy:  70.19v
+Epoch 106  loss 0.594 
+Epoch 106  loss 0.523 
+Epoch 106  loss 0.569 
+Epoch 106  loss 0.567 
+Epoch 106  loss 0.551 
+Epoch 106  loss 0.560 
+Epoch 106  loss 0.572 
+Epoch 106  loss 0.508 
+Epoch 106  loss 0.527 
+Epoch 106  loss 0.572 
+train images	 avg loss: 0.657v, accuracy:  77.37^
+test images	 avg loss: 0.998v, accuracy:  70.87^
+Epoch 107  loss 0.601 
+Epoch 107  loss 0.535 
+Epoch 107  loss 0.577 
+Epoch 107  loss 0.525 
+Epoch 107  loss 0.530 
+Epoch 107  loss 0.534 
+Epoch 107  loss 0.533 
+Epoch 107  loss 0.537 
+Epoch 107  loss 0.553 
+Epoch 107  loss 0.531 
+train images	 avg loss: 0.695^, accuracy:  76.28v
+test images	 avg loss: 1.040^, accuracy:  70.83v
+Epoch 108  loss 0.606 
+Epoch 108  loss 0.558 
+Epoch 108  loss 0.582 
+Epoch 108  loss 0.538 
+Epoch 108  loss 0.530 
+Epoch 108  loss 0.537 
+Epoch 108  loss 0.520 
+Epoch 108  loss 0.547 
+Epoch 108  loss 0.512 
+Epoch 108  loss 0.569 
+train images	 avg loss: 0.623v, accuracy:  78.25^
+test images	 avg loss: 0.999v, accuracy:  71.19^
+Epoch 109  loss 0.593 
+Epoch 109  loss 0.537 
+Epoch 109  loss 0.552 
+Epoch 109  loss 0.557 
+Epoch 109  loss 0.524 
+Epoch 109  loss 0.536 
+Epoch 109  loss 0.539 
+Epoch 109  loss 0.548 
+Epoch 109  loss 0.562 
+Epoch 109  loss 0.527 
+train images	 avg loss: 0.713^, accuracy:  75.31v
+test images	 avg loss: 1.083^, accuracy:  69.32v
+Epoch 110  loss 0.581 
+Epoch 110  loss 0.551 
+Epoch 110  loss 0.560 
+Epoch 110  loss 0.507 
+Epoch 110  loss 0.545 
+Epoch 110  loss 0.539 
+Epoch 110  loss 0.550 
+Epoch 110  loss 0.560 
+Epoch 110  loss 0.554 
+Epoch 110  loss 0.518 
+train images	 avg loss: 0.628v, accuracy:  78.17^
+test images	 avg loss: 1.005v, accuracy:  70.51^
+Epoch 111  loss 0.570 
+Epoch 111  loss 0.557 
+Epoch 111  loss 0.530 
+Epoch 111  loss 0.544 
+Epoch 111  loss 0.567 
+Epoch 111  loss 0.579 
+Epoch 111  loss 0.563 
+Epoch 111  loss 0.528 
+Epoch 111  loss 0.579 
+Epoch 111  loss 0.528 
+train images	 avg loss: 0.639^, accuracy:  77.75v
+test images	 avg loss: 1.025^, accuracy:  70.42v
+Epoch 112  loss 0.576 
+Epoch 112  loss 0.548 
+Epoch 112  loss 0.565 
+Epoch 112  loss 0.541 
+Epoch 112  loss 0.530 
+Epoch 112  loss 0.540 
+Epoch 112  loss 0.534 
+Epoch 112  loss 0.516 
+Epoch 112  loss 0.525 
+Epoch 112  loss 0.549 
+train images	 avg loss: 0.700^, accuracy:  75.98v
+test images	 avg loss: 1.098^, accuracy:  69.02v
+Epoch 113  loss 0.602 
+Epoch 113  loss 0.529 
+Epoch 113  loss 0.520 
+Epoch 113  loss 0.553 
+Epoch 113  loss 0.553 
+Epoch 113  loss 0.560 
+Epoch 113  loss 0.519 
+Epoch 113  loss 0.534 
+Epoch 113  loss 0.525 
+Epoch 113  loss 0.511 
+train images	 avg loss: 0.590v, accuracy:  79.40^
+test images	 avg loss: 1.015v, accuracy:  71.34^
+Epoch 114  loss 0.557 
+Epoch 114  loss 0.593 
+Epoch 114  loss 0.549 
+Epoch 114  loss 0.554 
+Epoch 114  loss 0.545 
+Epoch 114  loss 0.529 
+Epoch 114  loss 0.562 
+Epoch 114  loss 0.530 
+Epoch 114  loss 0.524 
+Epoch 114  loss 0.523 
+train images	 avg loss: 0.659^, accuracy:  77.05v
+test images	 avg loss: 1.068^, accuracy:  69.63v
+Epoch 115  loss 0.593 
+Epoch 115  loss 0.553 
+Epoch 115  loss 0.550 
+Epoch 115  loss 0.518 
+Epoch 115  loss 0.519 
+Epoch 115  loss 0.519 
+Epoch 115  loss 0.520 
+Epoch 115  loss 0.512 
+Epoch 115  loss 0.551 
+Epoch 115  loss 0.539 
+train images	 avg loss: 0.675^, accuracy:  76.81v
+test images	 avg loss: 1.054v, accuracy:  69.91^
+Epoch 116  loss 0.604 
+Epoch 116  loss 0.559 
+Epoch 116  loss 0.526 
+Epoch 116  loss 0.503 
+Epoch 116  loss 0.516 
+Epoch 116  loss 0.508 
+Epoch 116  loss 0.546 
+Epoch 116  loss 0.511 
+Epoch 116  loss 0.547 
+Epoch 116  loss 0.538 
+train images	 avg loss: 0.728^, accuracy:  74.66v
+test images	 avg loss: 1.059^, accuracy:  69.32v
+Epoch 117  loss 0.595 
+Epoch 117  loss 0.544 
+Epoch 117  loss 0.532 
+Epoch 117  loss 0.488 
+Epoch 117  loss 0.494 
+Epoch 117  loss 0.521 
+Epoch 117  loss 0.535 
+Epoch 117  loss 0.535 
+Epoch 117  loss 0.541 
+Epoch 117  loss 0.520 
+train images	 avg loss: 0.643v, accuracy:  77.97^
+test images	 avg loss: 1.059^, accuracy:  70.46^
+Epoch 118  loss 0.594 
+Epoch 118  loss 0.573 
+Epoch 118  loss 0.505 
+Epoch 118  loss 0.529 
+Epoch 118  loss 0.499 
+Epoch 118  loss 0.528 
+Epoch 118  loss 0.542 
+Epoch 118  loss 0.527 
+Epoch 118  loss 0.538 
+Epoch 118  loss 0.522 
+train images	 avg loss: 0.680^, accuracy:  76.54v
+test images	 avg loss: 1.047v, accuracy:  70.28v
+Epoch 119  loss 0.586 
+Epoch 119  loss 0.536 
+Epoch 119  loss 0.562 
+Epoch 119  loss 0.531 
+Epoch 119  loss 0.534 
+Epoch 119  loss 0.516 
+Epoch 119  loss 0.536 
+Epoch 119  loss 0.522 
+Epoch 119  loss 0.564 
+Epoch 119  loss 0.544 
+train images	 avg loss: 0.638v, accuracy:  77.83^
+test images	 avg loss: 1.044v, accuracy:  70.18v
+Epoch 120  loss 0.596 
+Epoch 120  loss 0.553 
+Epoch 120  loss 0.534 
+Epoch 120  loss 0.538 
+Epoch 120  loss 0.521 
+Epoch 120  loss 0.542 
+Epoch 120  loss 0.516 
+Epoch 120  loss 0.528 
+Epoch 120  loss 0.539 
+Epoch 120  loss 0.530 
+train images	 avg loss: 0.634v, accuracy:  78.00^
+test images	 avg loss: 1.037v, accuracy:  71.09^
+Epoch 121  loss 0.569 
+Epoch 121  loss 0.562 
+Epoch 121  loss 0.549 
+Epoch 121  loss 0.497 
+Epoch 121  loss 0.530 
+Epoch 121  loss 0.517 
+Epoch 121  loss 0.519 
+Epoch 121  loss 0.507 
+Epoch 121  loss 0.519 
+Epoch 121  loss 0.520 
+train images	 avg loss: 0.647^, accuracy:  77.51v
+test images	 avg loss: 1.031v, accuracy:  70.64v
+Epoch 122  loss 0.572 
+Epoch 122  loss 0.545 
+Epoch 122  loss 0.521 
+Epoch 122  loss 0.546 
+Epoch 122  loss 0.524 
+Epoch 122  loss 0.542 
+Epoch 122  loss 0.505 
+Epoch 122  loss 0.519 
+Epoch 122  loss 0.544 
+Epoch 122  loss 0.501 
+train images	 avg loss: 0.648^, accuracy:  77.56^
+test images	 avg loss: 1.022v, accuracy:  70.41v
+Epoch 123  loss 0.576 
+Epoch 123  loss 0.521 
+Epoch 123  loss 0.562 
+Epoch 123  loss 0.550 
+Epoch 123  loss 0.522 
+Epoch 123  loss 0.513 
+Epoch 123  loss 0.536 
+Epoch 123  loss 0.492 
+Epoch 123  loss 0.509 
+Epoch 123  loss 0.545 
+train images	 avg loss: 0.630v, accuracy:  78.01^
+test images	 avg loss: 1.028^, accuracy:  70.82^
+Epoch 124  loss 0.560 
+Epoch 124  loss 0.526 
+Epoch 124  loss 0.560 
+Epoch 124  loss 0.526 
+Epoch 124  loss 0.528 
+Epoch 124  loss 0.504 
+Epoch 124  loss 0.529 
+Epoch 124  loss 0.531 
+Epoch 124  loss 0.505 
+Epoch 124  loss 0.512 
+train images	 avg loss: 0.663^, accuracy:  77.05v
+test images	 avg loss: 1.031^, accuracy:  71.14^
+Epoch 125  loss 0.550 
+Epoch 125  loss 0.541 
+Epoch 125  loss 0.508 
+Epoch 125  loss 0.534 
+Epoch 125  loss 0.517 
+Epoch 125  loss 0.500 
+Epoch 125  loss 0.508 
+Epoch 125  loss 0.551 
+Epoch 125  loss 0.517 
+Epoch 125  loss 0.529 
+train images	 avg loss: 0.668^, accuracy:  77.10^
+test images	 avg loss: 1.045^, accuracy:  70.63v
+Epoch 126  loss 0.577 
+Epoch 126  loss 0.539 
+Epoch 126  loss 0.533 
+Epoch 126  loss 0.529 
+Epoch 126  loss 0.515 
+Epoch 126  loss 0.513 
+Epoch 126  loss 0.518 
+Epoch 126  loss 0.543 
+Epoch 126  loss 0.536 
+Epoch 126  loss 0.497 
+train images	 avg loss: 0.670^, accuracy:  76.99v
+test images	 avg loss: 1.079^, accuracy:  69.96v
+Epoch 127  loss 0.574 
+Epoch 127  loss 0.535 
+Epoch 127  loss 0.530 
+Epoch 127  loss 0.523 
+Epoch 127  loss 0.517 
+Epoch 127  loss 0.521 
+Epoch 127  loss 0.518 
+Epoch 127  loss 0.511 
+Epoch 127  loss 0.520 
+Epoch 127  loss 0.508 
+train images	 avg loss: 0.686^, accuracy:  76.47v
+test images	 avg loss: 1.067v, accuracy:  69.84v
+Epoch 128  loss 0.587 
+Epoch 128  loss 0.562 
+Epoch 128  loss 0.526 
+Epoch 128  loss 0.506 
+Epoch 128  loss 0.524 
+Epoch 128  loss 0.522 
+Epoch 128  loss 0.490 
+Epoch 128  loss 0.527 
+Epoch 128  loss 0.498 
+Epoch 128  loss 0.523 
+train images	 avg loss: 0.648v, accuracy:  77.53^
+test images	 avg loss: 1.043v, accuracy:  70.43^
+Epoch 129  loss 0.561 
+Epoch 129  loss 0.551 
+Epoch 129  loss 0.514 
+Epoch 129  loss 0.502 
+Epoch 129  loss 0.517 
+Epoch 129  loss 0.516 
+Epoch 129  loss 0.493 
+Epoch 129  loss 0.516 
+Epoch 129  loss 0.546 
+Epoch 129  loss 0.519 
+train images	 avg loss: 0.626v, accuracy:  78.27^
+test images	 avg loss: 1.039v, accuracy:  70.58^
+Epoch 130  loss 0.569 
+Epoch 130  loss 0.547 
+Epoch 130  loss 0.485 
+Epoch 130  loss 0.501 
+Epoch 130  loss 0.502 
+Epoch 130  loss 0.529 
+Epoch 130  loss 0.513 
+Epoch 130  loss 0.510 
+Epoch 130  loss 0.502 
+Epoch 130  loss 0.514 
+train images	 avg loss: 0.626v, accuracy:  78.07v
+test images	 avg loss: 1.026v, accuracy:  70.82^
+Epoch 131  loss 0.586 
+Epoch 131  loss 0.523 
+Epoch 131  loss 0.520 
+Epoch 131  loss 0.505 
+Epoch 131  loss 0.515 
+Epoch 131  loss 0.525 
+Epoch 131  loss 0.491 
+Epoch 131  loss 0.521 
+Epoch 131  loss 0.523 
+Epoch 131  loss 0.488 
+train images	 avg loss: 0.616v, accuracy:  78.42^
+test images	 avg loss: 1.025v, accuracy:  70.69v
+Epoch 132  loss 0.552 
+Epoch 132  loss 0.533 
+Epoch 132  loss 0.527 
+Epoch 132  loss 0.503 
+Epoch 132  loss 0.502 
+Epoch 132  loss 0.531 
+Epoch 132  loss 0.521 
+Epoch 132  loss 0.520 
+Epoch 132  loss 0.499 
+Epoch 132  loss 0.511 
+train images	 avg loss: 0.654^, accuracy:  77.84v
+test images	 avg loss: 1.063^, accuracy:  70.48v
+Epoch 133  loss 0.552 
+Epoch 133  loss 0.546 
+Epoch 133  loss 0.512 
+Epoch 133  loss 0.494 
+Epoch 133  loss 0.515 
+Epoch 133  loss 0.517 
+Epoch 133  loss 0.522 
+Epoch 133  loss 0.499 
+Epoch 133  loss 0.518 
+Epoch 133  loss 0.516 
+train images	 avg loss: 0.693^, accuracy:  76.28v
+test images	 avg loss: 1.142^, accuracy:  68.17v
+Epoch 134  loss 0.573 
+Epoch 134  loss 0.489 
+Epoch 134  loss 0.521 
+Epoch 134  loss 0.529 
+Epoch 134  loss 0.516 
+Epoch 134  loss 0.497 
+Epoch 134  loss 0.516 
+Epoch 134  loss 0.501 
+Epoch 134  loss 0.518 
+Epoch 134  loss 0.527 
+train images	 avg loss: 0.624v, accuracy:  78.05^
+test images	 avg loss: 1.054v, accuracy:  70.28^
+Epoch 135  loss 0.529 
+Epoch 135  loss 0.537 
+Epoch 135  loss 0.534 
+Epoch 135  loss 0.511 
+Epoch 135  loss 0.507 
+Epoch 135  loss 0.522 
+Epoch 135  loss 0.497 
+Epoch 135  loss 0.540 
+Epoch 135  loss 0.519 
+Epoch 135  loss 0.513 
+train images	 avg loss: 0.672^, accuracy:  76.78v
+test images	 avg loss: 1.052v, accuracy:  69.52v
+Epoch 136  loss 0.543 
+Epoch 136  loss 0.539 
+Epoch 136  loss 0.524 
+Epoch 136  loss 0.517 
+Epoch 136  loss 0.539 
+Epoch 136  loss 0.533 
+Epoch 136  loss 0.519 
+Epoch 136  loss 0.497 
+Epoch 136  loss 0.530 
+Epoch 136  loss 0.518 
+train images	 avg loss: 0.691^, accuracy:  76.21v
+test images	 avg loss: 1.061^, accuracy:  69.82^
+Epoch 137  loss 0.590 
+Epoch 137  loss 0.542 
+Epoch 137  loss 0.556 
+Epoch 137  loss 0.530 
+Epoch 137  loss 0.517 
+Epoch 137  loss 0.486 
+Epoch 137  loss 0.494 
+Epoch 137  loss 0.497 
+Epoch 137  loss 0.519 
+Epoch 137  loss 0.487 
+train images	 avg loss: 0.659v, accuracy:  77.69^
+test images	 avg loss: 1.109^, accuracy:  70.42^
+Epoch 138  loss 0.582 
+Epoch 138  loss 0.503 
+Epoch 138  loss 0.502 
+Epoch 138  loss 0.502 
+Epoch 138  loss 0.518 
+Epoch 138  loss 0.516 
+Epoch 138  loss 0.491 
+Epoch 138  loss 0.510 
+Epoch 138  loss 0.518 
+Epoch 138  loss 0.521 
+train images	 avg loss: 0.630v, accuracy:  78.11^
+test images	 avg loss: 1.068v, accuracy:  69.90v
+Epoch 139  loss 0.569 
+Epoch 139  loss 0.547 
+Epoch 139  loss 0.507 
+Epoch 139  loss 0.473 
+Epoch 139  loss 0.536 
+Epoch 139  loss 0.514 
+Epoch 139  loss 0.512 
+Epoch 139  loss 0.495 
+Epoch 139  loss 0.508 
+Epoch 139  loss 0.484 
+train images	 avg loss: 0.612v, accuracy:  78.57^
+test images	 avg loss: 1.056v, accuracy:  70.47^
+Epoch 140  loss 0.554 
+Epoch 140  loss 0.506 
+Epoch 140  loss 0.512 
+Epoch 140  loss 0.518 
+Epoch 140  loss 0.487 
+Epoch 140  loss 0.525 
+Epoch 140  loss 0.504 
+Epoch 140  loss 0.511 
+Epoch 140  loss 0.516 
+Epoch 140  loss 0.504 
+train images	 avg loss: 0.625^, accuracy:  78.32v
+test images	 avg loss: 1.074^, accuracy:  70.55^
+Running time:9538.1355366 seconds
+training loss =  0.6252051568031312
